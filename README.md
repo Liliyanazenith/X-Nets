@@ -1,5 +1,9 @@
 # X'Nest (tanpa server)
 
+<p align="center">
+  <img src="https://i.ibb.co/BHCbJBfk/savetok-7694199220236078344-foto3.jpg" alt=". scarlett ." width="100%">
+</p>
+
 Website statis + Supabase. Tidak ada perintah yang perlu dijalankan.
 
 ## Setup (sekali saja)
